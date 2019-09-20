@@ -1,0 +1,29 @@
+/*
+ * BY SUBMITTING THIS FILE AS PART OF MY LAB ASSIGNMENT, I CERTIFY THAT
+ * ALL FO THE CODE FOUND WITHIN THIS FILE WAS CREATED BY ME WITH NO
+ * ASSISTANCE FRO ANY PERSON OTHER THAN THE INSTURCTOR OF THIS COURSE
+ * OR ONE OF OUR UNDERGRADUATE GRADERS.	
+*/
+
+1.
+  Ji Woong Kim
+
+2.
+  20hours
+
+3.
+  Using the reaollocate to allocate memory was very interesting experience, since In the Java concents we have never
+ controlled and also did not have to control the memory which is more like low level concept. We could have experience 
+to touch the computer memory manually which was really interesting. 
+
+4.
+  when I ran this file with command line, I should put the 'control d ' which makes the program assume the input file is 
+end of file. And the command I used, 'cat < testdata > output 2> errors', it means that the program uses the input data with 
+'test' coming after <, and also it prints the results at the file "output' and prints the error messages at the file 'errors' coming after 2>.
+
+ I use first argument of fprintf as stederr, which makes the error messages go to standard output such as file, console or screen. 
+The error messages happened when a ball hits the wall and when a ball falls off a table.
+
+
+I use standard output, and it defaults to the user's screen and I did not change the output method, the if I try to make output file,
+it is same as screen output. output file prints out location and velocity information of all balls in the table per every seconds. 

@@ -1,0 +1,12 @@
+Ball C hits right wall at 0.50 seconds pos (23.50, 28.29) vel ( 25.00, 42.47)
+Ball B hits left wall at 0.60 seconds pos (-0.40, 52.94) vel ( -8.00, 71.77)
+Ball B hits top at 0.60 seconds pos ( 0.40, 52.94) vel (  8.00, 71.77)
+Ball C hits top at 1.20 seconds pos ( 3.00, 48.15) vel (-25.00,  9.54)
+
+Ball B leaves the table at 1.20 seconds
+Ball C hits left wall at 1.40 seconds pos (-2.00, 45.48) vel (-25.00,-18.95)
+
+Ball A leaves the table at 2.20 seconds
+Ball C hits right wall at 2.30 seconds pos (24.50, 11.49) vel ( 25.00,-61.29)
+
+Ball C leaves the table at 2.50 seconds

@@ -1,0 +1,15 @@
+THIS IS README FILE FOR LAB2.
+
+BY SUBMITTING THIS FILE TO CARMEN, I CERTIFY THAT I HAVE PERFORMED ALL
+OF THE WORK TO DETERMINE THE ANSWERS FOUND WITHIN THIS FILE
+MYSELF WITH NO ASSISTANCE FROM ANY PERSON OTHER THAN THE 
+INSTRCUTOR OF THIS COURSE OR ONE OF OUR UNDERGRADUATE GRADERS.
+
+Ji Woong Kim
+
+9hours
+
+ I could learn the way to use scanf and scanf returns the number of values it caught.
+I also used the const value to the non-changing variables in entire program, it makes the code more accurate.   
+The hard point for this lab was making algorithm that sorts depending on condition. Making up the branches was quit tricky for this lab.
+I cuold be more used to the syntx used in printf scanf.
